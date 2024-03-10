@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3395edb0-68da-4c38-bab3-fb22184ef0d4" name="Changes" comment="Merge remote-tracking branch 'github/master'">
-      <change afterPath="$PROJECT_DIR$/src/FactorialRecursively.java" afterDir="false" />
+    <list default="true" id="3395edb0-68da-4c38-bab3-fb22184ef0d4" name="Changes" comment="This is recurssion">
+      <change afterPath="$PROJECT_DIR$/src/Optimizedpowercalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,29 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;keshavMishra29&quot;
+    },
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;keshavMishra29&quot;,
+      &quot;author&quot;: &quot;keshavMishra29&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fb9604b2-fdf6-45ec-96a9-6ae0ad4bf75b" />
+        <option name="url" value="https://github.com/keshavMishra29/JAVAcoding.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2d2y1wybSy1MQFsPOqhWk4idVSH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -89,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710087228328</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="This is recurssion">
+      <created>1710089006293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710089006293</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,8 +169,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="This is recurssion" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
+    <MESSAGE value="This is recurssion" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is recurssion" />
   </component>
 </project>
